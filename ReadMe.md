@@ -19,7 +19,8 @@ This server has only one API.
 
 # Setup
 1. Install openpose
-   Install openpose, reading the website of darknet
+
+   Install openpose, reading the website of openpose
    Please build with python API
 
 2. Clone of this repository
